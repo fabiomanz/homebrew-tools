@@ -5,7 +5,7 @@ Personal Homebrew tap for my projects.
 ## Usage
 
 ```bash
-brew tap <your-username>/tools
+brew tap fabiomanz/tools
 brew install numbat-ui
 ```
 
