@@ -1,8 +1,8 @@
 cask "numbat-ui" do
-  version "3.0.1"
-  sha256 "707fd664552a981120f640591793e7212d053ca9cc33d43475309d4484d879bc"
+  version "3.0.2"
+  sha256 "26fb6708e9eeea497d44de24169d81e9eaf1fdab3790394b2372603e6e0feb7e"
 
-  url "https://github.com/fabiomanz/numbat-ui/releases/download/v3.0.1/numbat-ui-macos-universal.zip"
+  url "https://github.com/fabiomanz/numbat-ui/releases/download/v3.0.2/numbat-ui-macos-universal.zip"
   name "Numbat UI"
   desc "A native GUI for the Numbat scientific calculator"
   homepage "https://github.com/fabiomanz/numbat-ui"
